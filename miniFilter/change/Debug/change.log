@@ -1,0 +1,8 @@
+﻿  Building 'change' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\change.inf
+  Stamping [Version] section with DriverVer=12/28/2021,18.56.15.986
+C:\Users\User\Desktop\miniFilter\miniFilter\change\change.inf : error 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+C:\Users\User\Desktop\miniFilter\miniFilter\change\change.inf(8-8): warning 1324: [Version] section should specify PnpLockdown=1.
+C:\Users\User\Desktop\miniFilter\miniFilter\change\change.inf(25-25): error 1421: Section [DefaultInstall] should have an architecture decoration.
+C:\Users\User\Desktop\miniFilter\miniFilter\change\change.inf(36-36): error 1421: Section [DefaultUninstall] should have an architecture decoration.
+C:\Users\User\Desktop\miniFilter\miniFilter\change\change.inf(71-71): warning 1205: Section [Change.DriverFiles] referenced from DelFiles and CopyFiles directive.

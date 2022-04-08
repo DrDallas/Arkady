@@ -1,0 +1,28 @@
+﻿  Building 'change' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\change.inf
+  Stamping [Version] section with DriverVer=12/28/2021,19.26.44.617
+C:\Users\User\Desktop\miniFilter\miniFilter\change\change.inf(40-40): warning 2083: Section [defaultuninstall.services] not referenced or used.
+C:\Users\User\Desktop\miniFilter\miniFilter\change\change.inf(47-47): warning 2083: Section [change.service] not referenced or used.
+C:\Users\User\Desktop\miniFilter\miniFilter\change\change.inf(62-62): warning 2083: Section [change.addregistry] not referenced or used.
+  change.c
+  context.c
+  Generating Code...
+  change.vcxproj -> C:\Users\User\Desktop\miniFilter\miniFilter\change\x64\Debug\change.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\User\Desktop\miniFilter\miniFilter\change\x64\Debug\change.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\User\Desktop\miniFilter\miniFilter\change\x64\Debug\change\change.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\change\change.cat
+  
